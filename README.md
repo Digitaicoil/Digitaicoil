@@ -1,4 +1,4 @@
-<img src="header.png" alt="DigitAI: AI systems that do the busywork" width="100%">
+<img src="digitai-header.png" alt="DigitAI: AI systems that do the busywork" width="100%">
 
 ### Hi, we're DigitAI 👋
 
