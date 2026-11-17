@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-label="DigitAI: AI systems that do the busywork">
+  <defs>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.7">
+      <stop offset="0" stop-color="#6b3cff" stop-opacity="0.35"/><stop offset="1" stop-color="#0f0d17" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="360" fill="#0f0d17"/><rect width="1280" height="360" fill="url(#glow)"/>
+  <g transform="translate(88 112)">
+    <rect width="58" height="58" rx="14" fill="#f4f3f8"/><rect x="78" width="58" height="58" rx="14" fill="#6b3cff"/>
+    <rect y="78" width="58" height="58" rx="14" fill="#c6f432"/><rect x="78" y="78" width="58" height="58" rx="14" fill="#f4f3f8"/>
+  </g>
+  <text x="290" y="160" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="700" fill="#f4f3f8" letter-spacing="-1.5">DigitAI</text>
+  <text x="292" y="214" font-family="-apple-system,'SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif" font-size="28" fill="#a7a3b8">We build AI systems that do a small business's busywork:</text>
+  <text x="292" y="252" font-family="-apple-system,'SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif" font-size="28" fill="#a7a3b8">calls, leads, follow-ups, content. <tspan fill="#c6f432">Then we open-source the parts.</tspan></text>
+</svg>
